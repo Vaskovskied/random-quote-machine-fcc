@@ -1,0 +1,10 @@
+.newQuoteBtn {
+  background-color: #eee;
+  /* padding: 15px 20px; */
+  height: 54px;
+  width: 50%;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+}

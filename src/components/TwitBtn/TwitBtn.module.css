@@ -1,0 +1,14 @@
+.twitBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eee;
+  border-radius: 6px;
+  height: 54px;
+  width: 54px;
+}
+
+.twitBtn svg {
+  height: 40%;
+  width: 40%;
+}
